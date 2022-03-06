@@ -26,12 +26,12 @@
 
 ##🌴
 
-<img src="Screenshot_1646504902.png" width="300"><img src=Screenshot_1646508734.png" width="300">
+<img src="Screenshot_1646504902.png" width="300"> <img src=Screenshot_1646508734.png" width="300">
 
 <br/>
 <br/>
 
-<img src="Screenshot_1646508646.png" width="300"><img src=Screenshot_1646508734.png" width="300">
+<img src="Screenshot_1646508646.png" width="300"> <img src=Screenshot_1646508734.png" width="300">
 
 <br/>
 <br/>

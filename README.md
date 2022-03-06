@@ -17,22 +17,11 @@
 - mvvm 
 - sqlf
 - shared prephrences
-- firebase fcm
-- Navigation componnent
-- live data for easy state
-- state flow for complex state with fillter and map data
-- flow
-- Coroutines for async programming
-- coil for load img
-- mvvm with repositry pattern
-- for manger app with jetpack compose i used mvvm with repositry pattern and clean archicture with use cases 
-- dependency injection with hilt
-- room for local database
-- recycler view
-- rotrofit for send notification
-- data binding
-- data store prepherences
-- google maps with coustom style marker
+- material design
+- clean code 
+- clean architecture
+-reposirty pattern
+
 <br/>
 
 ##🌴
